@@ -3,7 +3,9 @@
 <h3 align="center">A random weeb who codes</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/KThankYou/KThankYou/blob/main/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gin&label=Profile%20views&color=0e75b6&style=flat" alt="gin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kthankyou&label=Profile%20views&color=0e75b6&style=plastic" alt="kthankyou" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kthankyou" alt="kthankyou" /></a> </p>
 
 - 📚 I'm currently studying **Computer Science at Vellore Institue of Technology, Chennai.**
 
@@ -28,24 +30,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gin&show_icons=true&locale=en&layout=compact" alt="gin" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kthankyou&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="kthankyou" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gin&show_icons=true&locale=en" alt="gin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kthankyou&show_icons=true&theme=dark&hide_border=true&locale=en" alt="kthankyou" /></p>
 
-
-
-
-<!--
-**KThankYou/KThankYou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kthankyou&theme=dark" alt="kthankyou" /></p>

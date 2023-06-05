@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gin&label=Profile%20views&color=0e75b6&style=flat" alt="gin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gin" alt="gin" /></a> </p>
-
 - 📚 I'm currently studying **Computer Science at Vellore Institue of Technology, Chennai.**
 
 - 🌱 I’m currently learning **more about DSA, Discrete Math, Malware Analysis**

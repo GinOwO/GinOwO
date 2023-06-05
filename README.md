@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/KThankYou/KThankYou/blob/main/bacfcdc6615ed73d9ca519ab8c57651710aea489.gif)](https://steamcommunity.com/id/notGintoki/)
 <h1 align="center">Hi 👋, I'm Gin</h1>
 <h3 align="center">A random weeb who codes</h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/KThankYou/KThankYou/blob/main/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true">
+<img align="right" alt="Coding" width="200" src="https://github.com/KThankYou/KThankYou/blob/main/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gin&label=Profile%20views&color=0e75b6&style=flat" alt="gin" /> </p>
 

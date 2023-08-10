@@ -22,7 +22,7 @@
 
 <h3 align="left">GitHub Analytics:</h3>
 <p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kthankyou&theme=dark" alt="kthankyou" /></p>
-
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=KThankYou&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kthankyou&show_icons=true&theme=dark&hide_border=true&locale=en" alt="kthankyou" /></p>
 
 <!--

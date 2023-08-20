@@ -1,15 +1,17 @@
 [![MasterHead](https://github.com/KThankYou/KThankYou/blob/main/bacfcdc6615ed73d9ca519ab8c57651710aea489.gif)](https://steamcommunity.com/id/notGintoki/)
 <h1 align="center">Hi 👋, I'm Gin</h1>
 <h3 align="center">A random weeb who codes</h3>
+<div align="center">
 <img align="right" alt="Coding" width="150" src="https://github.com/KThankYou/KThankYou/blob/main/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kthankyou" alt="kthankyou" /></a> </p>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=KThankYou&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 - 📚 I'm currently studying **Computer Science at Vellore Institue of Technology, Chennai.**
 
 - 🌱 I’m currently learning **more about DSA, Discrete Math, Malware Analysis**
 
-- 💬 Ask me about **Python, C++, gaming, anime**
+- 💬 Ask me about **C++, C, Python, gaming, anime**
 
 - 📫 How to reach me **n97w6itm7@mozmail.com**
 
@@ -21,9 +23,12 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
 
 <h3 align="left">GitHub Analytics:</h3>
-<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kthankyou&theme=dark" alt="kthankyou" /></p>
+<div align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kthankyou&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="kthankyou"/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=KThankYou&theme=onedark&hide_border=true&locale=en' />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kthankyou&theme=onedark&hide_border=true&locale=en" alt="kthankyou" />
+</div>
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=KThankYou&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
-<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kthankyou&show_icons=true&theme=dark&hide_border=true&locale=en" alt="kthankyou" /></p>
 
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kthankyou&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="kthankyou" /></p>

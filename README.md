@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gin</h1>
 <h3 align="center">A random weeb who codes</h3>
 <div align="center">
-<img align="right" alt="Coding" width="150" src="https://github.com/KThankYou/KThankYou/blob/main/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true">
+<img align="right" alt="Coding" width="250" src="https://github.com/KThankYou/KThankYou/blob/main/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=KThankYou&theme=onedark&row=2&&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>

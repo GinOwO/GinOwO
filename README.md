@@ -4,7 +4,7 @@
 <div align="center">
 <img align="right" alt="Coding" width="150" src="https://github.com/KThankYou/KThankYou/blob/main/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=KThankYou&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KThankYou&theme=onedark&row=2&&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 - 📚 I'm currently studying **Computer Science at Vellore Institue of Technology, Chennai.**

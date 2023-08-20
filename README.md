@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/GinOwO/GinOwO/blob/main/bacfcdc6615ed73d9ca519ab8c57651710aea489.gif)](https://steamcommunity.com/id/notGintoki/)
-<h1 align="center">Hi 👋, I'm Gin</h1>
+<h1 align="center">Why hello there, I'm Gin</h1>
 <h3 align="center">A random weeb who codes</h3>
 <div align="center">
 <a href="https://github.com/GinOwO" target="blank"><img align="right" alt="Coding" width="240" src="https://github.com/GinOwO/GinOwO/blob/main/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true"></a>
@@ -16,7 +16,8 @@
 - 📫 How to reach me **n97w6itm7@mozmail.com**
 
 - ⚡ Fun fact **Did you know Gintama is my favourite anime of all time?**
-<!--- ⚡ Fun fact#2 **My old GitHub username was KThankYou?**-->
+  
+- ⚡ Fun fact **My old GitHub username was KThankYou?**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GinOwO&label=Profile%20views&color=0e75b6&style=plastic" alt="GinOwO" /> </p>
 

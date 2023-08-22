@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact#1 **Did you know Gintama is my favourite anime of all time?**
   
-- ⚡ Fun fact#2 **My old GitHub username was KThankYou?**
+- ⚡ Fun fact#2 **My old GitHub username was KThankYou**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GinOwO&label=Profile%20views&color=0e75b6&style=plastic" alt="GinOwO" /> </p>
 

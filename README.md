@@ -38,7 +38,7 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codewars.com/users/__K__" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="ginowo" height="30" width="30" /></a>
+<a href="https://www.codewars.com/users/GinOwO" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="ginowo" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ginowo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ginowo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9877330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9877330" height="30" width="40" /></a>

@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C++, C, Python, gaming, anime**
 
-- 📫 How to reach me **n97w6itm7@mozmail.com**
+- 📫 How to reach me **va9zz09af@mozmail.com**
 
 - ⚡ Fun fact#1 **Did you know Gintama is my favourite anime of all time?**
   

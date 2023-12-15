@@ -1,8 +1,8 @@
-[![MasterHead](https://github.com/GinOwO/GinOwO/blob/main/bacfcdc6615ed73d9ca519ab8c57651710aea489.gif)](https://steamcommunity.com/id/notGintoki/)
+[![MasterHead](https://github.com/GinOwO/GinOwO/blob/main/res/bacfcdc6615ed73d9ca519ab8c57651710aea489.gif)](https://steamcommunity.com/id/notGintoki/)
 <h1 align="center">Greetings traveller!<br/>I'm Gin</h1>
 <h3 align="center">A random weeb who codes<br/>I hope ye shall find respite from thine journey here</h3>
 <div align="center">
-<a href="https://github.com/GinOwO" target="blank"><img align="right" alt="Coding" width="240" src="https://github.com/GinOwO/GinOwO/blob/main/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true"></a>
+<a href="https://github.com/GinOwO" target="blank"><img align="right" alt="Coding" width="240" src="https://github.com/GinOwO/GinOwO/blob/main/res/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true"></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GinOwO&theme=onedark&row=2&&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>

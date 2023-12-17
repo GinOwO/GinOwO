@@ -1,5 +1,32 @@
-body{
-    background-color: black;
-    color: white;
-    text-shadow: beige 0.05em 0.05em 0.2em;
+.animated-text {
+    font-size: 2em;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.animated-text::after {
+    content: "OwO";
+    opacity: 1;
+    animation: OwO 2s linear 1s infinite;
+}
+
+@keyframes OwO {
+    0% {
+        content: "OwO";
+    }
+    25% {
+        content: "UwO";
+    }
+    50% {
+        content: "UwU";
+    }
+    75% {
+        content: "OwU";
+    }
+    100% {
+        content: "OwO";
+    }
 }

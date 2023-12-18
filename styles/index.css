@@ -1,32 +1,179 @@
-.animated-text {
-    font-size: 2em;
-    font-weight: bold;
-    color: #ffffff;
-    text-align: center;
-    margin: 0;
-    padding: 0;
+:root {
+    --track-1-color-bg: rgba(0, 140, 255, 0.808);
+
+    --track-2-color-bg: rgb(255, 255, 255);
+
+    --track-3-color-bg: rgb(0, 0, 0);
+
+    --track-4-color-bg: rgba(0, 140, 255, 0.808);
 }
 
-.animated-text::after {
-    content: "OwO";
+/* Splash screen */
+.splash {
+    display: flex;
+    margin: auto;
+    padding: auto;
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(36, 29, 29);
+    transition: 2s;
+}
+
+.splash-contents {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    color: aliceblue;
+    transform: translate(-50%, -50%);
+}
+
+.loading-dot {
+    display: inline-block;
+    position: relative;
+    width: 1.3rem;
+    height: 1.3rem;
+    margin: 0.7em;
+    border-radius: 100%;
+    background-color: aliceblue;
+    opacity: 0;
+}
+
+.loading-dot.active {
     opacity: 1;
-    animation: OwO 2s linear 1s infinite;
+    bottom: 0;
+    transition: ease-in-out 0.5s;
 }
 
-@keyframes OwO {
-    0% {
-        content: "OwO";
-    }
-    25% {
-        content: "UwO";
-    }
-    50% {
-        content: "UwU";
-    }
-    75% {
-        content: "OwU";
-    }
-    100% {
-        content: "OwO";
-    }
+.loading-dot.fade {
+    bottom: 150px;
+    transition: ease-in-out 0.7s;
+    opacity: 0;
+}
+
+/* Splash End */
+
+/* Content */
+html {
+    scroll-snap-type: both mandatory;
+    overflow-y: scroll;
+}
+
+.pages {
+    display: flex;
+    height: 100vh;
+    width: 200vw;
+    position: relative;
+    z-index: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    z-index: 0;
+    font-size: 15vh;
+    justify-content: center;
+    align-items: center;
+    height: 200vh;
+    width: 200vw;
+}
+
+.track {
+    display: flex;
+    position: relative;
+    z-index: 0;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+}
+
+#track-1 {
+    background-color: var(--track-1-color-bg);
+}
+
+#track-2 {
+    background-color: var(--track-2-color-bg);
+}
+
+#track-a-2 {
+    color: black; /* TODO fix this */
+}
+
+#track-3 {
+    background-color: var(--track-3-color-bg);
+}
+
+#track-4 {
+    background-color: var(--track-4-color-bg);
+    /* background-color: cornflowerblue; */
+}
+
+/* Hyperlinks */
+.track-a {
+    position: absolute;
+    scroll-snap-align: center;
+    text-decoration: none;
+    color: white;
+    z-index: 5;
+    transition: all 0.5s;
+}
+
+.track-a:hover {
+    scale: 1.1;
+}
+
+/* Parallax Shit */
+/* I don't know how atp but it works. Only in Y axis ffs. Most likely 
+due to the image not having a big enough buffer in the X direction */
+.track-image {
+    position: absolute;
+    display: flex;
+    z-index: -1;
+    height: 80%;
+    width: 80%;
+    scale: 1.25;
+    object-fit: cover;
+    object-position: 10% 10%;
+}
+
+/* Canvas */
+#track-canvas {
+    position: absolute;
+    z-index: 4;
+    border: 5px solid red;
+    visibility: "hidden";
+}
+
+#uwu-menu-container {
+    display: inline-flex;
+    left: 0;
+    top: 0;
+    margin: auto;
+    padding: auto;
+    position: absolute;
+}
+
+ion-icon {
+    font-size: 36px;
+    color: aliceblue;
+}
+
+/* Track 3 atm is for when i have some idea to try out */
+
+/* Track 4 - Just text */
+p {
+    font-size: 0.25em;
+}
+
+#track-4-text {
+    padding: auto;
+    margin: auto;
+    color: azure;
 }

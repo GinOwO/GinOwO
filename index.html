@@ -3,25 +3,107 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>WIP</title>
-        <script type="text/javascript" src="/scripts/index.js" defer></script>
+        <meta
+            http-equiv="Content-Security-Policy"
+            content="upgrade-insecure-requests"
+        />
+        <meta
+            name="description"
+            content="A place where I try out random web stuff"
+        />
+        <title>OwO</title>
+        <!-- Local files -->
         <link rel="stylesheet" href="styles/theme.css" type="text/css" />
         <link rel="stylesheet" href="styles/index.css" type="text/css" />
+        <script type="text/javascript" src="/scripts/index.js" defer></script>
+
+        <!-- Icon Scripts -->
+        <script
+            type="module"
+            src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+        ></script>
+        <script
+            nomodule
+            src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+        ></script>
+
+        <!-- Font scripts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Raleway&display=swap"
+            rel="stylesheet"
+        />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@500&family=Raleway:ital,wght@0,400;1,900&display=swap"
+            rel="stylesheet"
+        />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Noto+Sans:wght@500&family=Open+Sans:wght@600&family=Raleway:ital,wght@0,400;1,900&display=swap"
+            rel="stylesheet"
+        />
     </head>
     <body>
-        <div>
-            <span class="animated-text"></span>
+        <!-- splash is the frame that moves up -->
+        <div class="splash">
+            <!-- splash-contents exists to center the dots -->
+            <div class="splash-contents">
+                <!-- 5 dots gives diff timings in index.js -->
+                <span class="loading-dot"></span>
+                <span class="loading-dot"></span>
+                <span class="loading-dot"></span>
+                <span class="loading-dot"></span>
+                <span class="loading-dot"></span>
+            </div>
         </div>
-        <video id="background-video" autoplay loop muted>
-            <source
-                src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/252490/bacfcdc6615ed73d9ca519ab8c57651710aea489.webm"
-                type="video/webm"
-            />
-            <source
-                src="https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/items/252490/dd88f3fdf5d94fe91c769a58084c9efe536de3a5.mp4"
-                type="video/mp4"
-            />
-            Try Reloading OwO
-        </video>
+
+        <div class="main-content">
+            <div class="pages" id="page-1">
+                <div class="track" id="track-1">
+                    <a href="#track-a-3" class="track-a" id="track-a-1">OwO</a>
+                    <image
+                        src="res/bgs/owo.jpg"
+                        class="track-image"
+                        id="track-image-1"
+                        draggable="false"
+                    />
+                </div>
+                <div class="track" id="track-2">
+                    <a href="#track-a-1" class="track-a" id="track-a-2">TwT</a>
+                </div>
+            </div>
+            <div class="pages" id="page-2">
+                <div class="track" id="track-3">
+                    <div id="uwu-menu-container">
+                        <ion-icon
+                            name="add-circle-outline"
+                            id="uwu-popup-menu"
+                        ></ion-icon>
+                        <ion-icon
+                            name="color-palette-outline"
+                            id="uwu-popup-menu-colors"
+                        ></ion-icon>
+                        <ion-icon
+                            name="close-circle-outline"
+                            id="uwu-popup-menu-clear"
+                        ></ion-icon>
+                    </div>
+                    <canvas id="track-canvas"></canvas>
+                    <a
+                        href="#track-a-4"
+                        class="track-a"
+                        id="track-a-3"
+                        onclick="disableCanvas()"
+                        >UwU</a
+                    >
+                </div>
+                <div class="track" id="track-4">
+                    <a href="#track-a-2" class="track-a" id="track-a-4">XwX</a>
+                    <p id="track-4-text">
+                        I just try out random web stuff here
+                    </p>
+                </div>
+            </div>
+        </div>
     </body>
 </html>

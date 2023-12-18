@@ -204,13 +204,18 @@ window.addEventListener("load", () => {
 
     function draw(e) {
         if (!(canvasIsEnabled && drawingCanvas)) return;
+
+        const rect = canvas.getBoundingClientRect();
+        const mouseX = e.clientX - rect.left;
+        const mouseY = e.clientY - rect.top;
+
         ctx.lineWidth = 5;
         ctx.lineCap = "round";
         ctx.strokeStyle = canvasColor;
-        ctx.lineTo(e.clientX, e.clientY);
+        ctx.lineTo(mouseX, mouseY);
         ctx.stroke();
         ctx.beginPath();
-        ctx.moveTo(e.clientX, e.clientY);
+        ctx.moveTo(mouseX, mouseY);
     }
 
     canvas.addEventListener("mousedown", startDrawing);

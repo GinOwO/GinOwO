@@ -1,25 +1,27 @@
 [![MasterHead](https://github.com/GinOwO/GinOwO/blob/main/res/bacfcdc6615ed73d9ca519ab8c57651710aea489.gif)](https://steamcommunity.com/id/notGintoki/)
+
 <h1 align="center">Greetings traveller!<br/>I'm Gin</h1>
 <h3 align="center">A random weeb who codes<br/>I hope ye shall find respite from thine journey here</h3>
 <div align="center">
 <a href="https://github.com/GinOwO" target="blank"><img align="right" alt="Coding" width="240" src="https://github.com/GinOwO/GinOwO/blob/main/res/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true"></a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GinOwO&theme=onedark&row=2&&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
-- 📚 I'm currently studying **Computer Science at Vellore Institue of Technology, Chennai.**
+-   📚 I'm currently studying **Computer Science at Vellore Institue of Technology, Chennai.**
 
-- 🌱 I’m currently learning **more about DSA, Discrete Math, Malware Analysis**
+-   🌱 I’m currently learning **more about DSA, Discrete Math, Malware Analysis**
 
-- 💬 Ask me about **C++, C, Python, gaming, anime**
+-   💬 Ask me about **C++, C, Python, gaming, anime**
 
-- 📫 How to reach me **va9zz09af@mozmail.com**
+-   📫 How to reach me **va9zz09af@mozmail.com**
 
-- ⚡ Fun fact#1 **Did you know Gintama is my favourite anime of all time?**
-  
-- ⚡ Fun fact#2 **My old GitHub username was KThankYou**
+-   ⚡ Fun fact#1 **Did you know Gintama is my favourite anime of all time?**
+-   ⚡ Fun fact#2 **My old GitHub username was KThankYou**
 
 ## My Bucket List (2024)
+
 1. [ ] Write and design a Game engine.
 2. [ ] Design a language and write a compiler
 3. [ ] Write a Regexp Engine
@@ -45,7 +47,7 @@
 <p align="left">
 <a href="https://www.codewars.com/users/GinOwO" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="ginowo" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ginowo" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gintokisama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gintokisama" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ginowo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ginowo" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9877330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9877330" height="30" width="40" /></a>
 <a href="https://discord.gg/gin_.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gin#2549" height="30" width="40" /></a>

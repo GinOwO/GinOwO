@@ -7,6 +7,12 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GinOwO&theme=onedark&row=2&&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+<picture alt="image ded">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 </div>
 
 -   📚 I'm currently studying **Computer Science at Vellore Institue of Technology, Chennai.**

@@ -13,6 +13,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/GinOwO/GinOwO/output/github-snake.svg" />
 </picture>
 
+![Alt](https://repobeats.axiom.co/api/embed/34eaba69a819791c2af048b0f8ea85bda7f7d06f.svg "Repobeats analytics image")
+
 </div>
 
 -   📚 I'm currently studying **Computer Science at Vellore Institue of Technology, Chennai.**

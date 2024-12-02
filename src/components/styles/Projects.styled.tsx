@@ -20,5 +20,7 @@ export const ProjectDesc = styled.div`
   color: ${({ theme }) => theme.colors?.text[200]};
   text-align: justify;
   line-height: 1.5rem;
-  max-width: 500px;
+  max-width: 650px;
+  margin-bottom: 1.2rem;
+  margin-left: 2rem;
 `;

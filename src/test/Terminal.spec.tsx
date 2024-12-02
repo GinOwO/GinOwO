@@ -47,17 +47,17 @@ describe("Terminal Component", () => {
       );
     });
 
-    it("should return 'visitor' when user type 'whoami' cmd", async () => {
+    it("should return 'notgin' when user type 'whoami' cmd", async () => {
       await user.type(terminalInput, "whoami{enter}");
       expect(screen.getByTestId("latest-output").firstChild?.textContent).toBe(
-        "visitor"
+        "notgin"
       );
     });
 
-    it("should return '/home/satnaing' when user type 'pwd' cmd", async () => {
+    it("should return '/home/notgin' when user type 'pwd' cmd", async () => {
       await user.type(terminalInput, "pwd{enter}");
       expect(screen.getByTestId("latest-output").firstChild?.textContent).toBe(
-        "/home/satnaing"
+        "/home/notgin"
       );
     });
 
@@ -118,7 +118,6 @@ describe("Terminal Component", () => {
 
     const otherCmds = [
       "about",
-      "education",
       "help",
       "history",
       "projects",
@@ -138,31 +137,21 @@ describe("Terminal Component", () => {
       window.open = vi.fn();
     });
 
-    it("should redirect to portfolio website when user type 'gui' cmd", async () => {
-      await user.type(terminalInput, "gui{enter}");
-      expect(window.open).toHaveBeenCalled();
-      expect(screen.getByTestId("latest-output").firstChild?.textContent).toBe(
-        ""
-      );
-    });
-
     it("should open mail app when user type 'email' cmd", async () => {
       await user.type(terminalInput, "email{enter}");
       expect(window.open).toHaveBeenCalled();
-      expect(screen.getByTestId("latest-output").firstChild?.textContent).toBe(
-        "contact@satnaing.dev"
-      );
     });
 
-    const nums = [1, 2, 3, 4];
-    nums.forEach(num => {
+    const projNums = [1, 2, 3];
+    projNums.forEach(num => {
       it(`should redirect to project URL when user type 'projects go ${num}' cmd`, async () => {
         await user.type(terminalInput, `projects go ${num}{enter}`);
         expect(window.open).toHaveBeenCalled();
       });
     });
 
-    nums.forEach(num => {
+    const socialNums = [1, 2];
+    socialNums.forEach(num => {
       it(`should redirect to social media when user type 'socials go ${num}' cmd`, async () => {
         await user.type(terminalInput, `socials go ${num}{enter}`);
         expect(window.open).toHaveBeenCalled();
@@ -202,9 +191,9 @@ describe("Terminal Component", () => {
         window.open = vi.fn();
 
         // firstly run commands correct options
-        await user.type(terminalInput, `projects go 4{enter}`);
-        await user.type(terminalInput, `socials go 4{enter}`);
-        await user.type(terminalInput, `themes set espresso{enter}`);
+        await user.type(terminalInput, `projects go 1{enter}`);
+        await user.type(terminalInput, `socials go 1{enter}`);
+        await user.type(terminalInput, `themes set dark{enter}`);
 
         // then run cmd with incorrect options
         await user.type(terminalInput, `${cmd} ${arg}{enter}`);

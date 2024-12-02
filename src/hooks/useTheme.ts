@@ -3,8 +3,9 @@ import themes from "../components/styles/themes";
 import { setToLS, getFromLS } from "../utils/storage";
 import { DefaultTheme } from "styled-components";
 
+const defaultTheme = themes.espresso;
 export const useTheme = () => {
-  const [theme, setTheme] = useState<DefaultTheme>(themes.dark);
+  const [theme, setTheme] = useState<DefaultTheme>(defaultTheme);
   const [themeLoaded, setThemeLoaded] = useState(false);
 
   const setMode = (mode: DefaultTheme) => {
@@ -14,7 +15,7 @@ export const useTheme = () => {
 
   useEffect(() => {
     const localThemeName = getFromLS("tsn-theme");
-    localThemeName ? setTheme(themes[localThemeName]) : setTheme(themes.dark);
+    localThemeName ? setTheme(themes[localThemeName]) : setTheme(defaultTheme);
     setThemeLoaded(true);
   }, []);
 

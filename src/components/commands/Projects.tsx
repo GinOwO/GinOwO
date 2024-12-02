@@ -30,7 +30,11 @@ const Projects: React.FC = () => {
 
   /* ===== check arg is valid ===== */
   const checkArg = () =>
-    isArgInvalid(arg, "go", ["1", "2", "3", "4"]) ? (
+    isArgInvalid(
+      arg,
+      "go",
+      projects.map(({ id }) => id.toString())
+    ) ? (
       <Usage cmd="projects" />
     ) : null;
 
@@ -39,8 +43,8 @@ const Projects: React.FC = () => {
   ) : (
     <div data-testid="projects">
       <ProjectsIntro>
-        “Talk is cheap. Show me the code”? I got you. <br />
-        Here are some of my projects you shouldn't misss
+        C++ build systems are a pain, I'm looking at you CMake. <br />
+        In before I switch to Rust.
       </ProjectsIntro>
       {projects.map(({ id, title, desc }) => (
         <ProjectContainer key={id}>
@@ -56,27 +60,21 @@ const Projects: React.FC = () => {
 const projects = [
   {
     id: 1,
-    title: "Sat Naing's Blog",
-    desc: "My personal blog where I can write down my thoughts and experiences.",
-    url: "https://satnaing.dev/blog/",
+    title: "A GameEngine(untitled)",
+    desc: "A game engine build from scratch using C++ and OpenGL with support for physics using Bullet, enemy AI using Python + Gym + Stable Baselines3, a somewhat working MM using AWS and countless hours of not sleeping all held together by the glue that is socket programming.",
+    url: "https://github.com/GinOwO/GameEngine",
   },
   {
     id: 2,
-    title: "Haru Fashion",
-    desc: "An ecommerce web application where users can browse various products and make purchases.",
-    url: "https://haru-fashion.vercel.app/",
+    title: "Grub2 Theme Cycle",
+    desc: "A bash script to cycle throguh grub2 themes on Fedora and Nobara and optionally on reboot.",
+    url: "https://github.com/GinOwO/Grub2-Theme-Cycle",
   },
   {
     id: 3,
-    title: "Haru API",
-    desc: "A RESTful API developed for the Haru fashion ecommerce project.",
-    url: "https://satnaing.github.io/haru-api/",
-  },
-  {
-    id: 4,
-    title: "AstroPaper Blog Theme",
-    desc: "A minimal, accessible and SEO-friendly Astro blog theme.",
-    url: "https://astro-paper.pages.dev/",
+    title: "Caelum",
+    desc: "A GUI based interpreter for a subset for the x86_64 assembly language built using Qt6 and C++.",
+    url: "https://github.com/GinOwO/Caelum",
   },
 ];
 

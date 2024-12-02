@@ -3,6 +3,7 @@
   "short_name": "Terminal",
   "description": "Gin's terminal portfolio website coded with ReactJS.",
   "start_url": "/",
+  "icons": [],
   "theme_color": "#1d2a35",
   "background_color": "#1d2a35",
   "display": "standalone"

@@ -48,9 +48,9 @@
 
 <h3 align="left">GitHub Analytics:</h3>
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=GinOwO&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO"/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=GinOwO&theme=tokyonight&hide_border=true&locale=en&layout=donut' />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GinOwO&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO" />
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=GinOwO&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO"/>
+  <img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=GinOwO&theme=tokyonight&hide_border=true&locale=en&layout=donut' />
+<!--   <img height=180em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GinOwO&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO" /> -->
 </div>
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=GinOwO&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
@@ -60,7 +60,7 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codewars.com/users/GinOwO" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="ginowo" height="30" width="30" /></a>
+<a href="https://www.codewars.com/users/GinOwO" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="ginowo" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ginowo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ginowo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ginowo" height="30" width="40" /></a>

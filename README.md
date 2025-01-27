@@ -1,9 +1,10 @@
 [![MasterHead](https://github.com/GinOwO/GinOwO/blob/main/res/bacfcdc6615ed73d9ca519ab8c57651710aea489.gif)](https://steamcommunity.com/id/notGintoki/)
 
 <h1 align="center">Greetings traveller!<br/>I'm Gin</h1>
-<h3 align="center">A random weeb who codes<br/>I hope ye shall find respite from thine journey here</h3>
+<h3 align="center">Take a break here before moving on :)</h3>
 <div align="center">
 <a href="https://github.com/GinOwO" target="blank"><img align="right" alt="Coding" width="240" src="https://github.com/GinOwO/GinOwO/blob/main/res/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true"></a>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GinOwO&theme=onedark&row=2&&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -17,22 +18,29 @@
 
 </div>
 
--   📚 I'm currently studying **Computer Science at Vellore Institue of Technology, Chennai.**
+- I'm currently studying **Computer Science**
 
--   🌱 I’m currently learning **more about Rust, Compiler Design, Kernel Development**
+- I’m currently learning **more about Rust, Compiler Design, Kernel Development**
 
--   💬 Ask me about **C++, C, Python, gaming, anime**
+- Ask me about **C++, C, Python, gaming, anime**
 
--   📫 How to reach me **va9zz09af@mozmail.com**
+- How to reach me **va9zz09af@mozmail.com**
 
--   ⚡ Fun fact#1 **Did you know Gintama is my favourite anime of all time?**
--   ⚡ Fun fact#2 **My old GitHub username was KThankYou**
+- Fun fact#1 **Did you know Gintama is my favourite anime of all time?**
+- Fun fact#2 **My old GitHub username was KThankYou**
+
+
+## My Bucket List (2025)
+
+1. [X] Create a new Denoising Algorithm
+2. [ ] Contribute to GCC
+3. [ ] Contribute to FFmpeg
 
 ## My Bucket List (2024)
 
 1. [X] Write and design a Game engine.
-2. [ ] Design a language and write a compiler
-3. [ ] Write a Regexp Engine
+2. [ ] D̶e̶s̶i̶g̶n̶ ̶a̶ ̶l̶a̶n̶g̶u̶a̶g̶e̶ ̶a̶n̶d̶ ̶w̶r̶i̶t̶e̶ ̶a̶ ̶c̶o̶m̶p̶i̶l̶e̶r̶
+3. [ ] W̶r̶i̶t̶e̶ ̶a̶ ̶R̶e̶g̶e̶x̶p̶ ̶E̶n̶g̶i̶n̶e̶
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GinOwO&label=Profile%20views&color=0e75b6&style=plastic" alt="GinOwO" /> </p>
 
@@ -41,9 +49,9 @@
 
 <h3 align="left">GitHub Analytics:</h3>
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=GinOwO&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO"/>
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=GinOwO&theme=tokyonight&hide_border=true&locale=en&layout=donut' />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GinOwO&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO" />
+  <img height=180em src="https://github-readme-stats.vercel.app/api?username=GinOwO&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO"/>
+  <img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=GinOwO&theme=tokyonight&hide_border=true&locale=en&layout=donut' />
+<!--   <img height=180em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GinOwO&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO" /> -->
 </div>
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=GinOwO&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->
 
@@ -53,7 +61,7 @@
 </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codewars.com/users/GinOwO" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="ginowo" height="30" width="30" /></a>
+<a href="https://www.codewars.com/users/GinOwO" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="ginowo" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ginowo" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ginowo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ginowo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ginowo" height="30" width="40" /></a>

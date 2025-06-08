@@ -31,7 +31,7 @@
 
 ## My Bucket List (2025)
 
-1. [ ] Create a new Denoising Algorithm
+1. [X] Create a new Denoising Algorithm
 2. [ ] Contribute to GCC
 3. [ ] `<placeholder for when i remember something lmao>`
 

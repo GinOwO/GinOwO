@@ -3,10 +3,9 @@
 <h1 align="center">Hi!<br/>I'm Gin</h1>
 <h3 align="center">I like compilers and low level shit :)</h3>
 <div align="center">
-<a href="https://github.com/GinOwO" target="blank"><img align="right" alt="Coding" width="240" src="https://github.com/GinOwO/GinOwO/blob/main/res/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true"></a>
+<!-- <a href="https://github.com/GinOwO" target="blank"><img align="right" alt="Coding" width="240" src="https://github.com/GinOwO/GinOwO/blob/main/res/8abc2d3ff17beadd8197c8d00d8e65d1.png?raw=true"></a> -->
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=GinOwO&theme=onedark&row=2&&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=GinOwO&theme=onedark&row=2&&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <picture alt="image ded">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GinOwO/GinOwO/output/github-snake-dark.svg" />
@@ -55,7 +54,7 @@
 <h3 align="left">GitHub Analytics:</h3>
 <div align="center">
   <img height=180em src="https://github-readme-stats.vercel.app/api?username=GinOwO&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO"/>
-  <img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=GinOwO&theme=tokyonight&hide_border=true&locale=en&layout=donut' />
+  <img height=180em src='https://github-readme-stats.vercel.app/api/top-langs/?username=GinOwO&theme=tokyonight&hide_border=true&locale=en&layout=donut' alt="Thing's down, not my fault"/>
 <!--   <img height=180em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GinOwO&theme=tokyonight&hide_border=true&locale=en" alt="GinOwO" /> -->
 </div>
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=GinOwO&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)-->

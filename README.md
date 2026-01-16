@@ -23,7 +23,7 @@
 
 - Ask me about, idk just mail me smth if you wanna talk, im down.
 
-- How to reach me **va9zz09af@mozmail.com**
+- How to reach me **kiran.pdas.work@gmail.com**
 
 - Fun fact#1 **Did you know Gintama is my favourite anime of all time?**
 - Fun fact#2 **My old GitHub username was KThankYou**
@@ -32,7 +32,7 @@
 ## My Bucket List (2026)
 1. Think of something
 2. Think of something x2
-3. Think of something x3
+3. [ ] Write a Regexp Engine V2 (this time I'll finish it I swear)
 
 ## My Bucket List (2025)
 

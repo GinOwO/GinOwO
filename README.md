@@ -37,13 +37,13 @@
 ## My Bucket List (2025)
 
 1. [X] Create a new Denoising Algorithm
-2. [ ] ~Contribute to GCC~ (sigh, next year maybe)
+2. [ ] ~Contribute to GCC~ ~(sigh, next year maybe)~ (Yay finally did [this] (https://gcc.gnu.org/pipermail/gcc-patches/2026-January/707025.html) in Jan 2026)
 3. [ ] ~Contribute to FFmpeg~
 
 ## My Bucket List (2024)
 
 1. [X] Write and design a Game engine.
-2. [ ] D̶e̶s̶i̶g̶n̶ ̶a̶ ̶l̶a̶n̶g̶u̶a̶g̶e̶ ̶a̶n̶d̶ ̶w̶r̶i̶t̶e̶ ̶a̶ ̶c̶o̶m̶p̶i̶l̶e̶r̶ (technically I did this in 2025, but with asm for a small C89 subset)
+2. [ ] D̶e̶s̶i̶g̶n̶ ̶a̶ ̶l̶a̶n̶g̶u̶a̶g̶e̶ ̶a̶n̶d̶ ̶w̶r̶i̶t̶e̶ ̶a̶ ̶c̶o̶m̶p̶i̶l̶e̶r̶ (technically I did this in Dec 2025, but with asm for a small C89 subset)
 3. [ ] W̶r̶i̶t̶e̶ ̶a̶ ̶R̶e̶g̶e̶x̶p̶ ̶E̶n̶g̶i̶n̶e̶
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GinOwO&label=Profile%20views&color=0e75b6&style=plastic" alt="GinOwO" /> </p>

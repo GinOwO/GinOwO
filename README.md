@@ -37,7 +37,7 @@
 ## My Bucket List (2025)
 
 1. [X] Create a new Denoising Algorithm
-2. [ ] ~Contribute to GCC~ ~(sigh, next year maybe)~ (Yay finally did [this] (https://gcc.gnu.org/pipermail/gcc-patches/2026-January/707025.html) in Jan 2026)
+2. [ ] ~Contribute to GCC~ ~(sigh, next year maybe)~ (Yay finally did <a href= https://gcc.gnu.org/pipermail/gcc-patches/2026-January/707025.html>this</a> in Jan 2026)
 3. [ ] ~Contribute to FFmpeg~
 
 ## My Bucket List (2024)
